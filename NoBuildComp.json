@@ -1,0 +1,2257 @@
+﻿{
+    "レア弾薬箱 - Loot_ApolloAmmoBox_Rare": {
+        "Category0": {
+            "DropCount": 3,
+            "Loot": {
+                "WorldList.AthenaLoot.Ammo.Shells": {
+                    "spawnPercent": 100.0,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.Shells.01",
+                            "SpawnPercent": 100.0,
+                            "CountRange": 4,
+                            "WeaponName": "弾薬: 散弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataShells.AthenaAmmoDataShells"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category1": {
+            "DropCount": 3,
+            "Loot": {
+                "WorldList.AthenaLoot.Ammo.Light": {
+                    "spawnPercent": 100.0,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.Light.01",
+                            "SpawnPercent": 100.0,
+                            "CountRange": 20,
+                            "WeaponName": "弾薬: 小口径弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsLight.AthenaAmmoDataBulletsLight"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category2": {
+            "DropCount": 3,
+            "Loot": {
+                "WorldList.AthenaLoot.Ammo.Medium": {
+                    "spawnPercent": 99.9999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.Medium.01",
+                            "SpawnPercent": 33.3333,
+                            "CountRange": 36,
+                            "WeaponName": "弾薬: 中口径弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.Medium.02",
+                            "SpawnPercent": 33.3333,
+                            "CountRange": 24,
+                            "WeaponName": "弾薬: 中口径弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.Medium.03",
+                            "SpawnPercent": 33.3333,
+                            "CountRange": 30,
+                            "WeaponName": "弾薬: 中口径弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category3": {
+            "DropCount": 2,
+            "Loot": {
+                "WorldList.AthenaLoot.Ammo.Heavy": {
+                    "spawnPercent": 100.0,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.Heavy.01",
+                            "SpawnPercent": 100.0,
+                            "CountRange": 6,
+                            "WeaponName": "弾薬: 大口径弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsHeavy.AthenaAmmoDataBulletsHeavy"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category5": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.ApolloAmmoBox.Consumables.1": {
+                    "spawnPercent": 100.0,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.ApolloAmmoBox.Consumables.1.01",
+                            "SpawnPercent": 80.0,
+                            "CountRange": 3,
+                            "WeaponName": "ミニシールドポーション",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldSmallRefresh/WID_Paprika_ShieldSmall.WID_Paprika_ShieldSmall"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloAmmoBox.Consumables.1.02",
+                            "SpawnPercent": 20.0,
+                            "CountRange": 1,
+                            "WeaponName": "シールドポーション",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldRefresh/WID_Paprika_ShieldPot.WID_Paprika_ShieldPot"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category6": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.ApolloAmmoBox.Consumables.2": {
+                    "spawnPercent": 100.0,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.ApolloAmmoBox.Consumables.2.01",
+                            "SpawnPercent": 80.0,
+                            "CountRange": 3,
+                            "WeaponName": "ミニシールドポーション",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldSmallRefresh/WID_Paprika_ShieldSmall.WID_Paprika_ShieldSmall"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloAmmoBox.Consumables.2.02",
+                            "SpawnPercent": 20.0,
+                            "CountRange": 1,
+                            "WeaponName": "シールドポーション",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldRefresh/WID_Paprika_ShieldPot.WID_Paprika_ShieldPot"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "フロア戦利品 - Loot_AthenaFloorLoot": {
+        "Category0": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.AthenaLoot.Weapon.Shotgun": {
+                    "spawnPercent": 15.000100000000003,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Shotgun.01",
+                            "SpawnPercent": 4.4183,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Common",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_C.WID_Shotgun_Auto_Dual_DragonCart_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Shotgun.02",
+                            "SpawnPercent": 1.7673,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_UC.WID_Shotgun_Auto_Dual_DragonCart_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Shotgun.03",
+                            "SpawnPercent": 0.2872,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_R.WID_Shotgun_Auto_Dual_DragonCart_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Shotgun.04",
+                            "SpawnPercent": 4.4183,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Common",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_C.WID_Shotgun_Pump_DragonCart_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Shotgun.05",
+                            "SpawnPercent": 1.7673,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_UC.WID_Shotgun_Pump_DragonCart_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Shotgun.06",
+                            "SpawnPercent": 0.2872,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_R.WID_Shotgun_Pump_DragonCart_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Shotgun.08",
+                            "SpawnPercent": 1.7673,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_UC.WID_Shotgun_SingleFire_TeaCake_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Shotgun.09",
+                            "SpawnPercent": 0.2872,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_R.WID_Shotgun_SingleFire_TeaCake_Athena_R"
+                        }
+                    ]
+                },
+                "WorldList.AthenaLoot.Weapon.Handgun": {
+                    "spawnPercent": 5.5556,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Handgun.01",
+                            "SpawnPercent": 3.7922,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Common",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_C.WID_Pistol_Auto_HighTier_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Handgun.02",
+                            "SpawnPercent": 1.5169,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_UC.WID_Pistol_Auto_HighTier_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.Handgun.03",
+                            "SpawnPercent": 0.24650000000000002,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_R.WID_Pistol_Auto_HighTier_Athena_R"
+                        }
+                    ]
+                },
+                "WorldList.AthenaLoot.Weapon.SMG": {
+                    "spawnPercent": 6.6666,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.SMG.01",
+                            "SpawnPercent": 2.2753,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Common",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_C.WID_SMG_MusterQuick_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.SMG.02",
+                            "SpawnPercent": 0.9101,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_UC.WID_SMG_MusterQuick_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.SMG.03",
+                            "SpawnPercent": 0.1479,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_R.WID_SMG_MusterQuick_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.SMG.04",
+                            "SpawnPercent": 2.2753,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Common",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_C.WID_SMG_Paprika_Burst_Athena_HS_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.SMG.05",
+                            "SpawnPercent": 0.9101,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_UC.WID_SMG_Paprika_Burst_Athena_HS_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.SMG.06",
+                            "SpawnPercent": 0.1479,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_R.WID_SMG_Paprika_Burst_Athena_HS_R"
+                        }
+                    ]
+                },
+                "WorldList.AthenaLoot.Weapon.AssaultAuto": {
+                    "spawnPercent": 13.8888,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.AssaultAuto.04",
+                            "SpawnPercent": 4.7402,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Common",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_C.WID_Assault_Paprika_Heavy_Athena_HS_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.AssaultAuto.05",
+                            "SpawnPercent": 1.8961,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_UC.WID_Assault_Paprika_Heavy_Athena_HS_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.AssaultAuto.06",
+                            "SpawnPercent": 0.3081,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_R.WID_Assault_Paprika_Heavy_Athena_HS_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.AssaultAuto.07",
+                            "SpawnPercent": 4.7402,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Common",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_C.WID_Assault_MoonFlax_CombatAR_HS_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.AssaultAuto.08",
+                            "SpawnPercent": 1.8961,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_UC.WID_Assault_MoonFlax_CombatAR_HS_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.AssaultAuto.09",
+                            "SpawnPercent": 0.3081,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_R.WID_Assault_MoonFlax_CombatAR_HS_Athena_R"
+                        }
+                    ]
+                },
+                "WorldList.AthenaConsumables.Healing": {
+                    "spawnPercent": 17.083399999999997,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Healing.01",
+                            "SpawnPercent": 4.669700000000001,
+                            "CountRange": 5,
+                            "WeaponName": "包帯",
+                            "Rarity": "Common",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/BandageRefresh/WID_Paprika_Bandage.WID_Paprika_Bandage"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Healing.02",
+                            "SpawnPercent": 3.3726,
+                            "CountRange": 1,
+                            "WeaponName": "医療キット",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/MedRefresh/WID_Paprika_MedBox.WID_Paprika_MedBox"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Healing.03",
+                            "SpawnPercent": 3.8913999999999995,
+                            "CountRange": 3,
+                            "WeaponName": "ミニシールドポーション",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldSmallRefresh/WID_Paprika_ShieldSmall.WID_Paprika_ShieldSmall"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Healing.04",
+                            "SpawnPercent": 2.3349,
+                            "CountRange": 1,
+                            "WeaponName": "シールドポーション",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldRefresh/WID_Paprika_ShieldPot.WID_Paprika_ShieldPot"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Healing.05",
+                            "SpawnPercent": 0.09079999999999999,
+                            "CountRange": 1,
+                            "WeaponName": "チャグジャグ",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/AgileChugJugGameplay/Gameplay/WID_AgileChug.WID_AgileChug"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Healing.06",
+                            "SpawnPercent": 0.6486,
+                            "CountRange": 1,
+                            "WeaponName": "フローベリーミストグレネード",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/FizzyCloudGameplay/Gameplay/WID_FizzyCloud.WID_FizzyCloud"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Healing.07",
+                            "SpawnPercent": 1.8159999999999998,
+                            "CountRange": 2,
+                            "WeaponName": "チャグスプラッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/ChillBronco/Athena_ChillBronco.Athena_ChillBronco"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Healing.08",
+                            "SpawnPercent": 0.2594,
+                            "CountRange": 1,
+                            "WeaponName": "スラッペローニ・ピザ",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/TeaCakeConsumables/Gameplay/SlapperoniPizza/CID_Athena_TeaCake_TeamHealing.CID_Athena_TeaCake_TeamHealing"
+                        }
+                    ]
+                },
+                "WorldList.AthenaConsumables.Utility": {
+                    "spawnPercent": 10.277899999999999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Utility.05",
+                            "SpawnPercent": 0.2447,
+                            "CountRange": 1,
+                            "WeaponName": "ハープーンガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/HappyGhost/WID_Athena_HappyGhost.WID_Athena_HappyGhost"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Utility.07",
+                            "SpawnPercent": 1.4683,
+                            "CountRange": 3,
+                            "WeaponName": "オーバードライブ グレネード",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/ImpulseGrenade/Gameplay/StimpulseGrenade/Athena_Stimpulse.Athena_Stimpulse"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Utility.08",
+                            "SpawnPercent": 0.8564999999999999,
+                            "CountRange": 1,
+                            "WeaponName": "スカイライン デプロイヤー",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/ZiplineDeployer/Gameplay/WID_ZiplineDeployer_VR.WID_ZiplineDeployer_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Utility.10",
+                            "SpawnPercent": 0.3671,
+                            "CountRange": 1,
+                            "WeaponName": "プロ用フィッシングフック",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/FloppingRabbit/WID_Athena_FloppingRabbit_HighTier.WID_Athena_FloppingRabbit_HighTier"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Utility.11",
+                            "SpawnPercent": 2.4471,
+                            "CountRange": 1,
+                            "WeaponName": "リーコンスキャナー",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/MotherGameplay/Items/Scooter/WID_Athena_Mother_Scooter.WID_Athena_Mother_Scooter"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Utility.17",
+                            "SpawnPercent": 2.4471,
+                            "CountRange": 2,
+                            "WeaponName": "シールドバブルJr.",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/ShieldBubble/Gameplay/ShieldBubbleJr/Athena_SilverBlazer_Mini_UC.Athena_SilverBlazer_Mini_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Utility.18",
+                            "SpawnPercent": 2.4471,
+                            "CountRange": 2,
+                            "WeaponName": "ポケットバンカー",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PortAShackGameplay/Items/WID/Athena_PortaShackGrenade_A.Athena_PortaShackGrenade_A"
+                        }
+                    ]
+                },
+                "WorldList.AthenaConsumables.Hero": {
+                    "spawnPercent": 0.41669999999999996,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaConsumables.Hero.01",
+                            "SpawnPercent": 0.41669999999999996,
+                            "CountRange": 1,
+                            "WeaponName": "セブンのパワーグローブ",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/RiftGauntletsGameplay/Items/WID_RiftGauntlets.WID_RiftGauntlets"
+                        }
+                    ]
+                },
+                "WorldList.AthenaLoot.Ammo": {
+                    "spawnPercent": 6.6665,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.02",
+                            "SpawnPercent": 1.7544,
+                            "CountRange": 20,
+                            "WeaponName": "弾薬: 小口径弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsLight.AthenaAmmoDataBulletsLight"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.03",
+                            "SpawnPercent": 1.5789000000000002,
+                            "CountRange": 18,
+                            "WeaponName": "弾薬: 中口径弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.04",
+                            "SpawnPercent": 1.5789000000000002,
+                            "CountRange": 24,
+                            "WeaponName": "弾薬: 中口径弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.05",
+                            "SpawnPercent": 1.5789000000000002,
+                            "CountRange": 30,
+                            "WeaponName": "弾薬: 中口径弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AthenaAmmoDataBulletsMedium.AthenaAmmoDataBulletsMedium"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Ammo.07",
+                            "SpawnPercent": 0.1754,
+                            "CountRange": 2,
+                            "WeaponName": "弾薬: ロケット弾",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Ammo/AmmoDataRockets.AmmoDataRockets"
+                        }
+                    ]
+                },
+                "Empty": {
+                    "spawnPercent": 24.444499999999998,
+                    "Items": [
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 8.8889,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 15.5556,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "チェスト - Loot_AthenaTreasure": {
+        "Category0": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.AthenaLoot.Weapon.HighShotgun": {
+                    "spawnPercent": 29.6295,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.01",
+                            "SpawnPercent": 8.0053,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_UC.WID_Shotgun_Auto_Dual_DragonCart_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.02",
+                            "SpawnPercent": 1.5010000000000001,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_R.WID_Shotgun_Auto_Dual_DragonCart_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.03",
+                            "SpawnPercent": 0.30019999999999997,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_VR.WID_Shotgun_Auto_Dual_DragonCart_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.04",
+                            "SpawnPercent": 0.06999999999999999,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_SR.WID_Shotgun_Auto_Dual_DragonCart_Athena_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.05",
+                            "SpawnPercent": 8.0053,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_UC.WID_Shotgun_Pump_DragonCart_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.06",
+                            "SpawnPercent": 1.5010000000000001,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_R.WID_Shotgun_Pump_DragonCart_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.07",
+                            "SpawnPercent": 0.30019999999999997,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_VR.WID_Shotgun_Pump_DragonCart_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.08",
+                            "SpawnPercent": 0.06999999999999999,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_SR.WID_Shotgun_Pump_DragonCart_Athena_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.09",
+                            "SpawnPercent": 8.0053,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_UC.WID_Shotgun_SingleFire_TeaCake_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.10",
+                            "SpawnPercent": 1.5010000000000001,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_R.WID_Shotgun_SingleFire_TeaCake_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.11",
+                            "SpawnPercent": 0.30019999999999997,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_VR.WID_Shotgun_SingleFire_TeaCake_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighShotgun.12",
+                            "SpawnPercent": 0.06999999999999999,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_SR.WID_Shotgun_SingleFire_TeaCake_Athena_SR"
+                        }
+                    ]
+                },
+                "WorldList.AthenaLoot.Weapon.HighSMG": {
+                    "spawnPercent": 14.8146,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighSMG.01",
+                            "SpawnPercent": 6.0040000000000004,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_UC.WID_SMG_MusterQuick_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighSMG.02",
+                            "SpawnPercent": 1.1257,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_R.WID_SMG_MusterQuick_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighSMG.03",
+                            "SpawnPercent": 0.2251,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_VR.WID_SMG_MusterQuick_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighSMG.04",
+                            "SpawnPercent": 0.0525,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_SR.WID_SMG_MusterQuick_Athena_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighSMG.06",
+                            "SpawnPercent": 6.0040000000000004,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_UC.WID_SMG_Paprika_Burst_Athena_HS_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighSMG.07",
+                            "SpawnPercent": 1.1257,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_R.WID_SMG_Paprika_Burst_Athena_HS_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighSMG.08",
+                            "SpawnPercent": 0.2251,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_VR.WID_SMG_Paprika_Burst_Athena_HS_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighSMG.09",
+                            "SpawnPercent": 0.0525,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_SR.WID_SMG_Paprika_Burst_Athena_HS_SR"
+                        }
+                    ]
+                },
+                "WorldList.AthenaLoot.Weapon.HighAssaultAuto": {
+                    "spawnPercent": 30.8642,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighAssaultAuto.05",
+                            "SpawnPercent": 12.5083,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_UC.WID_Assault_Paprika_Heavy_Athena_HS_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighAssaultAuto.06",
+                            "SpawnPercent": 2.3453,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_R.WID_Assault_Paprika_Heavy_Athena_HS_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighAssaultAuto.07",
+                            "SpawnPercent": 0.46909999999999996,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_VR.WID_Assault_Paprika_Heavy_Athena_HS_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighAssaultAuto.08",
+                            "SpawnPercent": 0.1094,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_SR.WID_Assault_Paprika_Heavy_Athena_HS_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighAssaultAuto.09",
+                            "SpawnPercent": 12.5083,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_UC.WID_Assault_MoonFlax_CombatAR_HS_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighAssaultAuto.10",
+                            "SpawnPercent": 2.3453,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_R.WID_Assault_MoonFlax_CombatAR_HS_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighAssaultAuto.11",
+                            "SpawnPercent": 0.46909999999999996,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_VR.WID_Assault_MoonFlax_CombatAR_HS_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighAssaultAuto.12",
+                            "SpawnPercent": 0.1094,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_SR.WID_Assault_MoonFlax_CombatAR_HS_Athena_SR"
+                        }
+                    ]
+                },
+                "WorldList.AthenaLoot.Weapon.HighHandgun": {
+                    "spawnPercent": 24.691399999999998,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighHandgun.01",
+                            "SpawnPercent": 11.053799999999999,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_UC.WID_Pistol_Auto_HighTier_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighHandgun.02",
+                            "SpawnPercent": 2.0726,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_R.WID_Pistol_Auto_HighTier_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighHandgun.03",
+                            "SpawnPercent": 0.41450000000000004,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_VR.WID_Pistol_Auto_HighTier_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighHandgun.04",
+                            "SpawnPercent": 0.0967,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_SR.WID_Pistol_Auto_HighTier_Athena_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaLoot.Weapon.HighHandgun.05",
+                            "SpawnPercent": 11.053799999999999,
+                            "CountRange": 1,
+                            "WeaponName": "ハンマーリボルバー",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_Pistol/WID_Pistol_Heavy_TeaCake_Athena_UC.WID_Pistol_Heavy_TeaCake_Athena_UC"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category2": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.AthenaHighConsumables.Healing": {
+                    "spawnPercent": 63.158199999999994,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumables.Healing.01",
+                            "SpawnPercent": 7.4304,
+                            "CountRange": 5,
+                            "WeaponName": "包帯",
+                            "Rarity": "Common",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/BandageRefresh/WID_Paprika_Bandage.WID_Paprika_Bandage"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumables.Healing.02",
+                            "SpawnPercent": 12.384,
+                            "CountRange": 1,
+                            "WeaponName": "医療キット",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/MedRefresh/WID_Paprika_MedBox.WID_Paprika_MedBox"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumables.Healing.03",
+                            "SpawnPercent": 12.384,
+                            "CountRange": 3,
+                            "WeaponName": "ミニシールドポーション",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldSmallRefresh/WID_Paprika_ShieldSmall.WID_Paprika_ShieldSmall"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumables.Healing.04",
+                            "SpawnPercent": 11.5583,
+                            "CountRange": 1,
+                            "WeaponName": "シールドポーション",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldRefresh/WID_Paprika_ShieldPot.WID_Paprika_ShieldPot"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumables.Healing.05",
+                            "SpawnPercent": 1.2384,
+                            "CountRange": 1,
+                            "WeaponName": "チャグジャグ",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/AgileChugJugGameplay/Gameplay/WID_AgileChug.WID_AgileChug"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumables.Healing.06",
+                            "SpawnPercent": 5.7791999999999994,
+                            "CountRange": 1,
+                            "WeaponName": "フローベリーミストグレネード",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/FizzyCloudGameplay/Gameplay/WID_FizzyCloud.WID_FizzyCloud"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumables.Healing.07",
+                            "SpawnPercent": 9.0815,
+                            "CountRange": 2,
+                            "WeaponName": "チャグスプラッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/ChillBronco/Athena_ChillBronco.Athena_ChillBronco"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumables.Healing.08",
+                            "SpawnPercent": 3.3024,
+                            "CountRange": 1,
+                            "WeaponName": "スラッペローニ・ピザ",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/TeaCakeConsumables/Gameplay/SlapperoniPizza/CID_Athena_TeaCake_TeamHealing.CID_Athena_TeaCake_TeamHealing"
+                        }
+                    ]
+                },
+                "WorldList.AthenaHighConsumables.Hero": {
+                    "spawnPercent": 5.2631,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumables.Hero.01",
+                            "SpawnPercent": 5.2631,
+                            "CountRange": 1,
+                            "WeaponName": "セブンのパワーグローブ",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/RiftGauntletsGameplay/Items/WID_RiftGauntlets.WID_RiftGauntlets"
+                        }
+                    ]
+                },
+                "Empty": {
+                    "spawnPercent": 31.579,
+                    "Items": [
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 9.3567,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 4.6784,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 9.746599999999999,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 7.7973,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        }
+                    ]
+                }
+            }
+        },
+        "Category4": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.AthenaWadChests": {
+                    "spawnPercent": 99.99999999999999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaWadChests.01",
+                            "SpawnPercent": 10.0,
+                            "CountRange": 50,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaWadChests.02",
+                            "SpawnPercent": 29.999999999999996,
+                            "CountRange": 80,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaWadChests.03",
+                            "SpawnPercent": 48.0,
+                            "CountRange": 100,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaWadChests.04",
+                            "SpawnPercent": 10.0,
+                            "CountRange": 150,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaWadChests.05",
+                            "SpawnPercent": 2.0,
+                            "CountRange": 300,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "レアチェスト - Loot_ApolloTreasure_Rare": {
+        "Category0": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.ApolloLoot.Weapon.HighShotgun": {
+                    "spawnPercent": 33.3333,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.HighShotgun.01",
+                            "SpawnPercent": 8.333300000000001,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_VR.WID_Shotgun_Auto_Dual_DragonCart_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.HighShotgun.02",
+                            "SpawnPercent": 2.7778,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_SR.WID_Shotgun_Auto_Dual_DragonCart_Athena_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.HighShotgun.03",
+                            "SpawnPercent": 8.333300000000001,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_VR.WID_Shotgun_Pump_DragonCart_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.HighShotgun.04",
+                            "SpawnPercent": 2.7778,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_SR.WID_Shotgun_Pump_DragonCart_Athena_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.HighShotgun.05",
+                            "SpawnPercent": 8.333300000000001,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_VR.WID_Shotgun_SingleFire_TeaCake_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.HighShotgun.06",
+                            "SpawnPercent": 2.7778,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_SR.WID_Shotgun_SingleFire_TeaCake_Athena_SR"
+                        }
+                    ]
+                },
+                "WorldList.ApolloLoot.Weapon.SMG": {
+                    "spawnPercent": 20.0,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.SMG.03",
+                            "SpawnPercent": 7.5,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_VR.WID_SMG_Paprika_Burst_Athena_HS_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.SMG.04",
+                            "SpawnPercent": 2.5,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_SR.WID_SMG_Paprika_Burst_Athena_HS_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.SMG.05",
+                            "SpawnPercent": 7.5,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_VR.WID_SMG_MusterQuick_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.SMG.06",
+                            "SpawnPercent": 2.5,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_SR.WID_SMG_MusterQuick_Athena_SR"
+                        }
+                    ]
+                },
+                "WorldList.ApolloLoot.Weapon.AssaultAuto": {
+                    "spawnPercent": 33.3334,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.AssaultAuto.03",
+                            "SpawnPercent": 12.5,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_VR.WID_Assault_Paprika_Heavy_Athena_HS_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.AssaultAuto.04",
+                            "SpawnPercent": 4.1667000000000005,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_SR.WID_Assault_Paprika_Heavy_Athena_HS_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.AssaultAuto.05",
+                            "SpawnPercent": 12.5,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_VR.WID_Assault_MoonFlax_CombatAR_HS_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.AssaultAuto.06",
+                            "SpawnPercent": 4.1667000000000005,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_SR.WID_Assault_MoonFlax_CombatAR_HS_Athena_SR"
+                        }
+                    ]
+                },
+                "WorldList.ApolloLoot.Weapon.HighHandgun": {
+                    "spawnPercent": 13.333300000000001,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.HighHandgun.01",
+                            "SpawnPercent": 10.0,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_VR.WID_Pistol_Auto_HighTier_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloLoot.Weapon.HighHandgun.02",
+                            "SpawnPercent": 3.3333000000000004,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_SR.WID_Pistol_Auto_HighTier_Athena_SR"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category2": {
+            "DropCount": 2,
+            "Loot": {
+                "WorldList.AthenaHighConsumablesRare.Healing": {
+                    "spawnPercent": 44.99980000000001,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Healing.02",
+                            "SpawnPercent": 11.0655,
+                            "CountRange": 1,
+                            "WeaponName": "医療キット",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/MedRefresh/WID_Paprika_MedBox.WID_Paprika_MedBox"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Healing.04",
+                            "SpawnPercent": 10.3278,
+                            "CountRange": 1,
+                            "WeaponName": "シールドポーション",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldRefresh/WID_Paprika_ShieldPot.WID_Paprika_ShieldPot"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Healing.05",
+                            "SpawnPercent": 3.6885,
+                            "CountRange": 1,
+                            "WeaponName": "チャグジャグ",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/AgileChugJugGameplay/Gameplay/WID_AgileChug.WID_AgileChug"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Healing.06",
+                            "SpawnPercent": 5.9016,
+                            "CountRange": 1,
+                            "WeaponName": "フローベリーミストグレネード",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/FizzyCloudGameplay/Gameplay/WID_FizzyCloud.WID_FizzyCloud"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Healing.07",
+                            "SpawnPercent": 8.1148,
+                            "CountRange": 2,
+                            "WeaponName": "チャグスプラッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/ChillBronco/Athena_ChillBronco.Athena_ChillBronco"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Healing.08",
+                            "SpawnPercent": 5.9016,
+                            "CountRange": 1,
+                            "WeaponName": "スラッペローニ・ピザ",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/TeaCakeConsumables/Gameplay/SlapperoniPizza/CID_Athena_TeaCake_TeamHealing.CID_Athena_TeaCake_TeamHealing"
+                        }
+                    ]
+                },
+                "WorldList.AthenaHighConsumablesRare.Utility": {
+                    "spawnPercent": 45.0,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Utility.06",
+                            "SpawnPercent": 0.3846,
+                            "CountRange": 1,
+                            "WeaponName": "強化型ハープーンガン",
+                            "Rarity": "Mythic",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/HappyGhost/WID_Athena_HappyGhost_UR.WID_Athena_HappyGhost_UR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Utility.07",
+                            "SpawnPercent": 7.6923,
+                            "CountRange": 3,
+                            "WeaponName": "オーバードライブ グレネード",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/ImpulseGrenade/Gameplay/StimpulseGrenade/Athena_Stimpulse.Athena_Stimpulse"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Utility.08",
+                            "SpawnPercent": 6.153899999999999,
+                            "CountRange": 1,
+                            "WeaponName": "スカイライン デプロイヤー",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/ZiplineDeployer/Gameplay/WID_ZiplineDeployer_VR.WID_ZiplineDeployer_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Utility.11",
+                            "SpawnPercent": 10.256400000000001,
+                            "CountRange": 1,
+                            "WeaponName": "リーコンスキャナー",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/MotherGameplay/Items/Scooter/WID_Athena_Mother_Scooter.WID_Athena_Mother_Scooter"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Utility.17",
+                            "SpawnPercent": 10.256400000000001,
+                            "CountRange": 2,
+                            "WeaponName": "シールドバブルJr.",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/ShieldBubble/Gameplay/ShieldBubbleJr/Athena_SilverBlazer_Mini_UC.Athena_SilverBlazer_Mini_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Utility.18",
+                            "SpawnPercent": 10.256400000000001,
+                            "CountRange": 2,
+                            "WeaponName": "ポケットバンカー",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PortAShackGameplay/Items/WID/Athena_PortaShackGrenade_A.Athena_PortaShackGrenade_A"
+                        }
+                    ]
+                },
+                "WorldList.AthenaHighConsumablesRare.Hero": {
+                    "spawnPercent": 9.9999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaHighConsumablesRare.Hero.01",
+                            "SpawnPercent": 9.9999,
+                            "CountRange": 1,
+                            "WeaponName": "セブンのパワーグローブ",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/RiftGauntletsGameplay/Items/WID_RiftGauntlets.WID_RiftGauntlets"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category3": {
+            "DropCount": 2,
+            "Loot": {
+                "Empty": {
+                    "spawnPercent": 99.9999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 33.3333,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 20.0,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 33.3333,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 13.333300000000001,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        }
+                    ]
+                }
+            }
+        },
+        "Category5": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.ApolloWadChests": {
+                    "spawnPercent": 99.9999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.ApolloWadChests.01",
+                            "SpawnPercent": 9.9999,
+                            "CountRange": 125,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloWadChests.02",
+                            "SpawnPercent": 30.0,
+                            "CountRange": 150,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloWadChests.03",
+                            "SpawnPercent": 48.0,
+                            "CountRange": 200,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloWadChests.04",
+                            "SpawnPercent": 9.9999,
+                            "CountRange": 325,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.ApolloWadChests.05",
+                            "SpawnPercent": 2.0001,
+                            "CountRange": 500,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "釣りスポット - Loot_AthenaFlopper_High": {
+        "Category0": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.FlopperHigh.Light": {
+                    "spawnPercent": 13.333399999999997,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.01",
+                            "SpawnPercent": 0.0443,
+                            "CountRange": 150,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.03",
+                            "SpawnPercent": 1.3289,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_UC.WID_Pistol_Auto_HighTier_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.04",
+                            "SpawnPercent": 2.6578,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_R.WID_Pistol_Auto_HighTier_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.05",
+                            "SpawnPercent": 0.443,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_VR.WID_Pistol_Auto_HighTier_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.15",
+                            "SpawnPercent": 1.3289,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_UC.WID_SMG_MusterQuick_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.16",
+                            "SpawnPercent": 2.6578,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_R.WID_SMG_MusterQuick_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.17",
+                            "SpawnPercent": 0.443,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_VR.WID_SMG_MusterQuick_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.19",
+                            "SpawnPercent": 1.3289,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_UC.WID_SMG_Paprika_Burst_Athena_HS_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.20",
+                            "SpawnPercent": 2.6578,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_R.WID_SMG_Paprika_Burst_Athena_HS_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Light.21",
+                            "SpawnPercent": 0.443,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_VR.WID_SMG_Paprika_Burst_Athena_HS_VR"
+                        }
+                    ]
+                },
+                "WorldList.FlopperHigh.Shell": {
+                    "spawnPercent": 13.332899999999997,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Shell.01",
+                            "SpawnPercent": 1.3333,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_UC.WID_Shotgun_Auto_Dual_DragonCart_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Shell.02",
+                            "SpawnPercent": 2.6666,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_R.WID_Shotgun_Auto_Dual_DragonCart_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Shell.03",
+                            "SpawnPercent": 0.4444,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_VR.WID_Shotgun_Auto_Dual_DragonCart_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Shell.05",
+                            "SpawnPercent": 1.3333,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_UC.WID_Shotgun_Pump_DragonCart_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Shell.06",
+                            "SpawnPercent": 2.6666,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_R.WID_Shotgun_Pump_DragonCart_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Shell.07",
+                            "SpawnPercent": 0.4444,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_VR.WID_Shotgun_Pump_DragonCart_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Shell.09",
+                            "SpawnPercent": 1.3333,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_UC.WID_Shotgun_SingleFire_TeaCake_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Shell.10",
+                            "SpawnPercent": 2.6666,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_R.WID_Shotgun_SingleFire_TeaCake_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Shell.11",
+                            "SpawnPercent": 0.4444,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_VR.WID_Shotgun_SingleFire_TeaCake_Athena_VR"
+                        }
+                    ]
+                },
+                "WorldList.FlopperHigh.Medium": {
+                    "spawnPercent": 13.3331,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Medium.01",
+                            "SpawnPercent": 2.9629,
+                            "CountRange": 1,
+                            "WeaponName": "ベクター7 DMR",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_DMR/WID_DMR_TeaCake_Athena_R.WID_DMR_TeaCake_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Medium.02",
+                            "SpawnPercent": 0.49379999999999996,
+                            "CountRange": 1,
+                            "WeaponName": "ベクター7 DMR",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_DMR/WID_DMR_TeaCake_Athena_VR.WID_DMR_TeaCake_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Medium.08",
+                            "SpawnPercent": 1.4815,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_UC.WID_Assault_Paprika_Heavy_Athena_HS_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Medium.09",
+                            "SpawnPercent": 2.9629,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_R.WID_Assault_Paprika_Heavy_Athena_HS_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Medium.10",
+                            "SpawnPercent": 0.49379999999999996,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_VR.WID_Assault_Paprika_Heavy_Athena_HS_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Medium.12",
+                            "SpawnPercent": 1.4815,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_UC.WID_Assault_MoonFlax_CombatAR_HS_Athena_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Medium.13",
+                            "SpawnPercent": 2.9629,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_R.WID_Assault_MoonFlax_CombatAR_HS_Athena_R"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Medium.14",
+                            "SpawnPercent": 0.49379999999999996,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_VR.WID_Assault_MoonFlax_CombatAR_HS_Athena_VR"
+                        }
+                    ]
+                },
+                "WorldList.FlopperHigh.Consumables": {
+                    "spawnPercent": 60.000600000000006,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Consumables.01",
+                            "SpawnPercent": 11.8164,
+                            "CountRange": 1,
+                            "WeaponName": "フロッパー",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/WID_Athena_Flopper.WID_Athena_Flopper"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Consumables.02",
+                            "SpawnPercent": 11.8164,
+                            "CountRange": 1,
+                            "WeaponName": "シールドフィッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/ShieldFlopper/WID_Athena_Flopper_Shield.WID_Athena_Flopper_Shield"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Consumables.03",
+                            "SpawnPercent": 0.8351000000000001,
+                            "CountRange": 150,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Consumables.06",
+                            "SpawnPercent": 11.8164,
+                            "CountRange": 2,
+                            "WeaponName": "ジェリーフィッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/JellyFish/WID_Athena_Flopper_JellyFish.WID_Athena_Flopper_JellyFish"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Consumables.07",
+                            "SpawnPercent": 11.8164,
+                            "CountRange": 2,
+                            "WeaponName": "スパイシーフィッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/FireFlopper/WID_Athena_Flopper_FireFlopper.WID_Athena_Flopper_FireFlopper"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Consumables.10",
+                            "SpawnPercent": 11.8164,
+                            "CountRange": 1,
+                            "WeaponName": "スラープフィッシュ",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/Effective/WID_Athena_Flopper_Effective.WID_Athena_Flopper_Effective"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperHigh.Consumables.13",
+                            "SpawnPercent": 0.0835,
+                            "CountRange": 1,
+                            "WeaponName": "マイダスフロッパー",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/MechanicFlopper/WID_Athena_MechanicFlopper.WID_Athena_MechanicFlopper"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "釣り - Loot_AthenaFlopper_Default": {
+        "Category0": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.FlopperDefault.Shell": {
+                    "spawnPercent": 6.4516,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Shell.01",
+                            "SpawnPercent": 1.29,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Common",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_C.WID_Shotgun_Auto_Dual_DragonCart_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Shell.02",
+                            "SpawnPercent": 1.29,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Common",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_C.WID_Shotgun_Pump_DragonCart_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Shell.04",
+                            "SpawnPercent": 3.8716,
+                            "CountRange": 0,
+                            "WeaponName": "包帯",
+                            "Rarity": "Common",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/BandageRefresh/WID_Paprika_Bandage.WID_Paprika_Bandage"
+                        }
+                    ]
+                },
+                "WorldList.FlopperDefault.Light": {
+                    "spawnPercent": 6.4518,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Light.01",
+                            "SpawnPercent": 0.0639,
+                            "CountRange": 150,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Light.02",
+                            "SpawnPercent": 0.7985000000000001,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Common",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_C.WID_Pistol_Auto_HighTier_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Light.03",
+                            "SpawnPercent": 0.7985000000000001,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Common",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_C.WID_SMG_MusterQuick_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Light.04",
+                            "SpawnPercent": 0.7985000000000001,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Common",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_C.WID_Assault_MoonFlax_CombatAR_HS_Athena_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Light.08",
+                            "SpawnPercent": 0.7985000000000001,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Common",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_C.WID_SMG_Paprika_Burst_Athena_HS_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Light.09",
+                            "SpawnPercent": 3.1939,
+                            "CountRange": 0,
+                            "WeaponName": "包帯",
+                            "Rarity": "Common",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/BandageRefresh/WID_Paprika_Bandage.WID_Paprika_Bandage"
+                        }
+                    ]
+                },
+                "WorldList.FlopperDefault.Medium": {
+                    "spawnPercent": 6.4516,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Medium.02",
+                            "SpawnPercent": 3.2258,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Common",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_C.WID_Assault_Paprika_Heavy_Athena_HS_C"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Medium.04",
+                            "SpawnPercent": 3.2258,
+                            "CountRange": 0,
+                            "WeaponName": "包帯",
+                            "Rarity": "Common",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/BandageRefresh/WID_Paprika_Bandage.WID_Paprika_Bandage"
+                        }
+                    ]
+                },
+                "WorldList.FlopperDefault.Consumables": {
+                    "spawnPercent": 80.64509999999999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Consumables.01",
+                            "SpawnPercent": 33.6322,
+                            "CountRange": 1,
+                            "WeaponName": "スモールフィッシュ",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/Small/WID_Athena_FlopperSmall.WID_Athena_FlopperSmall"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Consumables.02",
+                            "SpawnPercent": 16.8161,
+                            "CountRange": 1,
+                            "WeaponName": "フロッパー",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/WID_Athena_Flopper.WID_Athena_Flopper"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Consumables.03",
+                            "SpawnPercent": 16.8161,
+                            "CountRange": 1,
+                            "WeaponName": "シールドフィッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/ShieldFlopper/WID_Athena_Flopper_Shield.WID_Athena_Flopper_Shield"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Consumables.04",
+                            "SpawnPercent": 0.48050000000000004,
+                            "CountRange": 50,
+                            "WeaponName": "インゴット",
+                            "Rarity": "Common",
+                            "AssetPathName": "/Game/Items/ResourcePickups/Athena_WadsItemData.Athena_WadsItemData"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Consumables.07",
+                            "SpawnPercent": 4.204,
+                            "CountRange": 2,
+                            "WeaponName": "ジェリーフィッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/JellyFish/WID_Athena_Flopper_JellyFish.WID_Athena_Flopper_JellyFish"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Consumables.08",
+                            "SpawnPercent": 4.204,
+                            "CountRange": 2,
+                            "WeaponName": "スパイシーフィッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/FireFlopper/WID_Athena_Flopper_FireFlopper.WID_Athena_Flopper_FireFlopper"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Consumables.11",
+                            "SpawnPercent": 4.204,
+                            "CountRange": 1,
+                            "WeaponName": "スラープフィッシュ",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/Effective/WID_Athena_Flopper_Effective.WID_Athena_Flopper_Effective"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Consumables.12",
+                            "SpawnPercent": 0.048,
+                            "CountRange": 1,
+                            "WeaponName": "ミシックゴールドフィッシュ",
+                            "Rarity": "Mythic",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Bucket/Nice/WID_Athena_Bucket_Nice.WID_Athena_Bucket_Nice"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.FlopperDefault.Consumables.14",
+                            "SpawnPercent": 0.2402,
+                            "CountRange": 1,
+                            "WeaponName": "マイダスフロッパー",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/Flopper/MechanicFlopper/WID_Athena_MechanicFlopper.WID_Athena_MechanicFlopper"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "救援物資 - Loot_AthenaSupplyDrop": {
+        "Category0": {
+            "DropCount": 1,
+            "Loot": {
+                "WorldList.AthenaSupplyDrop.Weapon.Assault": {
+                    "spawnPercent": 33.3334,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Assault.03",
+                            "SpawnPercent": 10.0,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_VR.WID_Assault_Paprika_Heavy_Athena_HS_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Assault.04",
+                            "SpawnPercent": 6.6667000000000005,
+                            "CountRange": 1,
+                            "WeaponName": "ネメシス アサルトライフル",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaAR_Heavy/HitscanWIDs/WID_Assault_Paprika_Heavy_Athena_HS_SR.WID_Assault_Paprika_Heavy_Athena_HS_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Assault.05",
+                            "SpawnPercent": 10.0,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_VR.WID_Assault_MoonFlax_CombatAR_HS_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Assault.06",
+                            "SpawnPercent": 6.6667000000000005,
+                            "CountRange": 1,
+                            "WeaponName": "コンバットアサルトライフル",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/CombatAR/Hitscan/WID_Assault_MoonFlax_CombatAR_HS_Athena_SR.WID_Assault_MoonFlax_CombatAR_HS_Athena_SR"
+                        }
+                    ]
+                },
+                "WorldList.AthenaSupplyDrop.Weapon.Shotgun": {
+                    "spawnPercent": 33.3333,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Shotgun.01",
+                            "SpawnPercent": 6.6667000000000005,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_VR.WID_Shotgun_Auto_Dual_DragonCart_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Shotgun.02",
+                            "SpawnPercent": 4.4444,
+                            "CountRange": 1,
+                            "WeaponName": "ツインハンマーショットガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_DualShotguns/WID_Shotgun_Auto_Dual_DragonCart_Athena_SR.WID_Shotgun_Auto_Dual_DragonCart_Athena_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Shotgun.03",
+                            "SpawnPercent": 6.6667000000000005,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_VR.WID_Shotgun_Pump_DragonCart_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Shotgun.04",
+                            "SpawnPercent": 4.4444,
+                            "CountRange": 1,
+                            "WeaponName": "アイアンポンプショットガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/DragonCartWeaponGameplay/Gameplay/DragonCart_Pump/WID_Shotgun_Pump_DragonCart_Athena_SR.WID_Shotgun_Pump_DragonCart_Athena_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Shotgun.05",
+                            "SpawnPercent": 6.6667000000000005,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_VR.WID_Shotgun_SingleFire_TeaCake_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Shotgun.06",
+                            "SpawnPercent": 4.4444,
+                            "CountRange": 1,
+                            "WeaponName": "カオスリローダーショットガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/TeaCakeWeapons/Gameplay/TeaCake_BellyBlaster/WID_Shotgun_SingleFire_TeaCake_Athena_SR.WID_Shotgun_SingleFire_TeaCake_Athena_SR"
+                        }
+                    ]
+                },
+                "WorldList.AthenaSupplyDrop.Weapon.Handgun": {
+                    "spawnPercent": 8.333300000000001,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Handgun.01",
+                            "SpawnPercent": 5.0,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_VR.WID_Pistol_Auto_HighTier_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.Handgun.02",
+                            "SpawnPercent": 3.3333000000000004,
+                            "CountRange": 1,
+                            "WeaponName": "ピストル",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/WeaponsUpdated/Gameplay/Pistol/WID_Pistol_Auto_HighTier_Athena_SR.WID_Pistol_Auto_HighTier_Athena_SR"
+                        }
+                    ]
+                },
+                "WorldList.AthenaSupplyDrop.Weapon.SMG": {
+                    "spawnPercent": 25.0,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.SMG.01",
+                            "SpawnPercent": 7.5,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_VR.WID_SMG_MusterQuick_Athena_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.SMG.02",
+                            "SpawnPercent": 5.0,
+                            "CountRange": 1,
+                            "WeaponName": "ツインマグ サブマシンガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/MusterCoreWeapons/Items/Weapons/MusterQuickSMG/WID_SMG_MusterQuick_Athena_SR.WID_SMG_MusterQuick_Athena_SR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.SMG.03",
+                            "SpawnPercent": 7.5,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_VR.WID_SMG_Paprika_Burst_Athena_HS_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDrop.Weapon.SMG.04",
+                            "SpawnPercent": 5.0,
+                            "CountRange": 1,
+                            "WeaponName": "サンダーバースト サブマシンガン",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/PaprikaCoreWeapons/Items/Weapons/PaprikaSMG_Burst/HitscanWIDs/WID_SMG_Paprika_Burst_Athena_HS_SR.WID_SMG_Paprika_Burst_Athena_HS_SR"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category2": {
+            "DropCount": 4,
+            "Loot": {
+                "WorldList.AthenaSupplyDropConsumables.Healing": {
+                    "spawnPercent": 40.00019999999999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Healing.02",
+                            "SpawnPercent": 8.8236,
+                            "CountRange": 1,
+                            "WeaponName": "医療キット",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/MedRefresh/WID_Paprika_MedBox.WID_Paprika_MedBox"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Healing.04",
+                            "SpawnPercent": 8.235299999999999,
+                            "CountRange": 1,
+                            "WeaponName": "シールドポーション",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/PaprikaConsumables/Gameplay/ShieldRefresh/WID_Paprika_ShieldPot.WID_Paprika_ShieldPot"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Healing.05",
+                            "SpawnPercent": 4.7059,
+                            "CountRange": 1,
+                            "WeaponName": "チャグジャグ",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/AgileChugJugGameplay/Gameplay/WID_AgileChug.WID_AgileChug"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Healing.06",
+                            "SpawnPercent": 5.8824000000000005,
+                            "CountRange": 1,
+                            "WeaponName": "フローベリーミストグレネード",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/FizzyCloudGameplay/Gameplay/WID_FizzyCloud.WID_FizzyCloud"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Healing.07",
+                            "SpawnPercent": 6.470600000000001,
+                            "CountRange": 2,
+                            "WeaponName": "チャグスプラッシュ",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/ChillBronco/Athena_ChillBronco.Athena_ChillBronco"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Healing.08",
+                            "SpawnPercent": 5.8824000000000005,
+                            "CountRange": 1,
+                            "WeaponName": "スラッペローニ・ピザ",
+                            "Rarity": "Legendary",
+                            "AssetPathName": "/TeaCakeConsumables/Gameplay/SlapperoniPizza/CID_Athena_TeaCake_TeamHealing.CID_Athena_TeaCake_TeamHealing"
+                        }
+                    ]
+                },
+                "WorldList.AthenaSupplyDropConsumables.Utility": {
+                    "spawnPercent": 39.9999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Utility.05",
+                            "SpawnPercent": 3.9702999999999995,
+                            "CountRange": 1,
+                            "WeaponName": "ハープーンガン",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/HappyGhost/WID_Athena_HappyGhost.WID_Athena_HappyGhost"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Utility.06",
+                            "SpawnPercent": 0.29779999999999995,
+                            "CountRange": 1,
+                            "WeaponName": "強化型ハープーンガン",
+                            "Rarity": "Mythic",
+                            "AssetPathName": "/Game/Athena/Items/Consumables/HappyGhost/WID_Athena_HappyGhost_UR.WID_Athena_HappyGhost_UR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Utility.07",
+                            "SpawnPercent": 5.9553,
+                            "CountRange": 3,
+                            "WeaponName": "オーバードライブ グレネード",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/ImpulseGrenade/Gameplay/StimpulseGrenade/Athena_Stimpulse.Athena_Stimpulse"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Utility.08",
+                            "SpawnPercent": 5.9553,
+                            "CountRange": 1,
+                            "WeaponName": "スカイライン デプロイヤー",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/ZiplineDeployer/Gameplay/WID_ZiplineDeployer_VR.WID_ZiplineDeployer_VR"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Utility.11",
+                            "SpawnPercent": 7.9403999999999995,
+                            "CountRange": 1,
+                            "WeaponName": "リーコンスキャナー",
+                            "Rarity": "Rare",
+                            "AssetPathName": "/MotherGameplay/Items/Scooter/WID_Athena_Mother_Scooter.WID_Athena_Mother_Scooter"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Utility.17",
+                            "SpawnPercent": 7.9403999999999995,
+                            "CountRange": 2,
+                            "WeaponName": "シールドバブルJr.",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/ShieldBubble/Gameplay/ShieldBubbleJr/Athena_SilverBlazer_Mini_UC.Athena_SilverBlazer_Mini_UC"
+                        },
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Utility.18",
+                            "SpawnPercent": 7.9403999999999995,
+                            "CountRange": 2,
+                            "WeaponName": "ポケットバンカー",
+                            "Rarity": "Uncommon",
+                            "AssetPathName": "/PortAShackGameplay/Items/WID/Athena_PortaShackGrenade_A.Athena_PortaShackGrenade_A"
+                        }
+                    ]
+                },
+                "WorldList.AthenaSupplyDropConsumables.Hero": {
+                    "spawnPercent": 20.000100000000003,
+                    "Items": [
+                        {
+                            "LootPackageCall": "WorldList.AthenaSupplyDropConsumables.Hero.01",
+                            "SpawnPercent": 20.000100000000003,
+                            "CountRange": 1,
+                            "WeaponName": "セブンのパワーグローブ",
+                            "Rarity": "Epic",
+                            "AssetPathName": "/RiftGauntletsGameplay/Items/WID_RiftGauntlets.WID_RiftGauntlets"
+                        }
+                    ]
+                }
+            }
+        },
+        "Category3": {
+            "DropCount": 8,
+            "Loot": {
+                "Empty": {
+                    "spawnPercent": 99.9999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 33.3333,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 33.3333,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 8.333300000000001,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 25.0,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        }
+                    ]
+                }
+            }
+        },
+        "Category4": {
+            "DropCount": 1,
+            "Loot": {
+                "Empty": {
+                    "spawnPercent": 99.9999,
+                    "Items": [
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 33.3333,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 33.3333,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 8.333300000000001,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        },
+                        {
+                            "LootPackageCall": "",
+                            "SpawnPercent": 25.0,
+                            "CountRange": 1,
+                            "WeaponName": "Empty",
+                            "Rarity": null,
+                            "AssetPathName": ""
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
